@@ -248,3 +248,18 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+////////////////////////////////
+// Daniel's resume additions //
+///////////////////////////////
+.resume em { 
+  float: right;
+}
+
+.resume h5 em {
+  font-style: normal;
+}
+  
+.resume h1, .resume h2, .resume h3, .resume h4, .resume h5, .resume h6 {
+  margin-bottom: 0px
+}
