@@ -7,8 +7,8 @@ title: Resume
 
 ### Experience
 
-**The Daily Iowan** 
-*Copy Desk Chief, Jan. - May 2016* 
+**The Daily Iowan **
+*Copy Desk Chief, Jan. - May 2016 *
 
 Brief description here.    
 
