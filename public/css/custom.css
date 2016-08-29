@@ -20,3 +20,19 @@ font-style: normal;
   float: right;
 }
 
+
+@media (max-width: 47.9em) {
+    div.sidebar h1 {
+         font-size: 3rem;
+    }
+    
+    p.lead {
+        font-size: 1 rem;
+    }
+    
+    div.sidebar {
+        padding: 0.1rem 1rem;
+    }
+    
+    
+}
