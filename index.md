@@ -13,9 +13,9 @@ I have proven expertise in [multimedia storytelling](/), [journalistic reporting
 
 <!-- go to http://fontawesome.io/icons/ to see more icons -->
 <p class="social-icons">
-<a href="http://twitter.com/stellarstudent"><i class="fa fa-twitter-square" aria-hidden="true"></i>&nbsp;Twitter</a>
+<a href="http://twitter.com/stellarstudent"><i class="fa fa-twitter-square" aria-hidden="true"></i>Twitter</a>
 <br>
-<a href="http://facebook.com/stellarstudent"><i class="fa fa-facebook-square" aria-hidden="true"></i>&nbsp;Facebook</a>
+<a href="http://facebook.com/stellarstudent"><i class="fa fa-facebook-square" aria-hidden="true"></i>Facebook</a>
 <br>
-<a href="http://linkedin.com/in/stellarstudent"><i class="fa fa-linkedin-square" aria-hidden="true"></i>&nbsp;LinkedIn</a>
+<a href="http://linkedin.com/in/stellarstudent"><i class="fa fa-linkedin-square" aria-hidden="true"></i>LinkedIn</a>
 </p>
