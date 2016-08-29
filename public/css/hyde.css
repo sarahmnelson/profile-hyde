@@ -249,19 +249,3 @@ a.sidebar-nav-item:focus {
   color: #8f5536;
 }
 
-////////////////////////////////
-// Daniel's resume additions //
-///////////////////////////////
-
-
-.resume h5 em {
-  font-style: normal;
-}
-  
-.resume h1, .resume h2, .resume h3, .resume h4, .resume h5, .resume h6 {
-  margin-bottom: 0px
-}
-
-.resume em { 
-  float: right;
-}
