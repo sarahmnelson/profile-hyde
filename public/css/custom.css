@@ -4,16 +4,16 @@
 
 
 
-  
-.resume h1, .resume h2, .resume h3, .resume h4, .resume h5, .resume h6 {
-  margin: 0rem;
-}
 
 .resume h5 em {
   font-style: normal;
   float: right;
 }
 
-.resume p em { 
-  float: right;
+.resume h3 {
+    margin: 0rem;
+}
+
+.resume h5, .resume h4, .resume h5, .resume h6 {
+    margin: 0rem;
 }
