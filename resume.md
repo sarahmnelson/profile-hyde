@@ -10,9 +10,10 @@ title: Resume
 ## Experience
 #### The Daily Iowan
 Copy Editor, Jan. - May 2016
-* two
-*  or
-*  three things I dided
+
+ * two
+ *  or
+ *  three things I didedd
 
 ## Volunteer Activities
 
