@@ -17,7 +17,7 @@ Brief description here.
 * list two or three
 * important achievements
 
-*Copy Editor, Sept. 2014 - Dec. 2015
+*Copy Editor, Sept. 2014 - Dec. 2015*
 
 Brief description here.    
 
