@@ -2,19 +2,18 @@
 layout: resume
 title: Resume
 ---
-104 W. Washington St., Iowa City, IA 52242  
-[stella-student@uiowa.edu](mailto:stella-student@uiowa.edu) - (319) 335 - 3331
+[sarahmnelson96@gmail.com](mailto:sarahmnelson96@gmail.com) - (515) 249 - 7911
 
 ### Experience
 
-#### The Daily Iowan
-##### Copy Desk Chief *Jan. - May 2016*
+#### Her Campus
+##### Campus Correspondent: Editor-in-Chief *May 2015 - Present*
 Brief description here.    
 
 * list two or three
 * important achievements
 
-##### Copy Editor *Sept. 2014 - Dec. 2015*
+##### Contributor *August 2014 - May 2015*
 Brief description here.    
 
 * list two or three
@@ -22,9 +21,14 @@ Brief description here.
 * you want to emphasize
 
 
-#### University of Iowa Hospitals and Clinics
-##### Food service supervisor *Jan. - May 2016*
+#### Des Moines Public Library
+##### Marketing Intern *November 2013 - May 2014*
 Very brief description here. No bullets.  
+
+
+#### Dallas County News
+##### Editorial Intern *October 2013 - May 2014*
+Very brief description here. No bullets.
 
 
 ### College Activities
