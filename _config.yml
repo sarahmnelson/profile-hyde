@@ -4,10 +4,10 @@
 permalink:        pretty
 
 # Setup
-title:            Stella R. Student
-tagline:          'Your tagline'
+title:            Sarah Nelson
+tagline:          'be kind'
 description:      A student journalist at the University of Iowa with a bright future ahead of her in mass communication.
-url:              http://lathropd.github.io
+url:              http://sarahmnelson.github.io
 baseurl:          /profile-hyde/
 shortbaseurl:     /profile-hyde
 colorscheme:      ''
@@ -15,7 +15,7 @@ colorscheme:      ''
 
 
 author:
-  name:           'Stella Student'
+  name:           'Sarah Nelson'
   url:            ''
   
 paginate:         5
