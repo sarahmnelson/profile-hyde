@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![logo](public/test.jpg)
+![Her Conference 2016](profile-hyde/public/IMG_8954.JPG)
 
 I'm a member of the University of Iowa [School of Journalism and Mass Communication](http://clas.uiowa.edu/sjmc/) Class of 2018.
 
