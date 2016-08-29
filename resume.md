@@ -8,7 +8,11 @@ title: Resume
 [stella-student@uiowa.edu](mailto:stella-student@uiowa.edu) - (319) 335 - 3331
 
 ## Experience
-#### |Copy Editor|The Daily Iowan|Jan. - May 2016
+#### The Daily Iowan
+Copy Editor, Jan. - May 2016
+- two
+- or
+- three things I did.
 
 ## Volunteer Activities
 
