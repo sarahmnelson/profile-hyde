@@ -5,7 +5,7 @@ title: Resume
 104 W. Washington St., Iowa City, IA 52242  
 [stella-student@uiowa.edu](mailto:stella-student@uiowa.edu) - (319) 335 - 3331
 
-## Experience
+### Experience
 
 #### The Daily Iowan
 ##### Copy Desk Chief, Jan. - May 2016
@@ -27,9 +27,9 @@ Brief description here.
 Very bried description here. No bullets.  
 
 
-## Volunteer Activities
+### Volunteer Activities
 
 
-## Skills
+### Skills
 
-## Education
+### Education
