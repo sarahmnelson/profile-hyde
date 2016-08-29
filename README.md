@@ -1,19 +1,15 @@
 # Profile Hyde
 
-This is a quick-and-dirty personal profile site evolved from the Hyde theme.
+This is a quick-and-dirty personal profile site evolved from the [Hyde](https://github.com/poole/hyde) theme. More configuration  info, and guidelines on blogging, are available there.
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+According to the Hyde docs:
+>Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. >It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
 
 ## Contents
 
-- [Usage](#usage)
-- [Options](#options)
-  - [Sidebar menu](#sidebar-menu)
-  - [Sticky sidebar content](#sticky-sidebar-content)
-  - [Themes](#themes)
-  - [Reverse layout](#reverse-layout)
-- [Development](#development)
+- [Sidebar menu](#sidebar-menu)
+- [Themes](#themes)
 - [Author](#author)
 - [License](#license)
 
