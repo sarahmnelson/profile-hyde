@@ -19,7 +19,11 @@
 font-style: normal;
   float: right;
 }
-
+p.social-icons a {
+    margin-right: 1rem;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    color: black;
+}
 
 @media (max-width: 47.9em) {
     div.sidebar h1 {
@@ -43,11 +47,7 @@ font-style: normal;
         text-align: right;
     }
     
-    p.social-icons a {
-        margin-right: 1rem;
-        font-family: "PT Sans", Helvetica, Arial, sans-serif;
-        color: black;
-    }
+
 
 
     
