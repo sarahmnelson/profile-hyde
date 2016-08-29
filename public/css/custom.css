@@ -36,6 +36,10 @@ font-style: normal;
     
     .sidebar a.sidebar-nav-item {
         float: left;
+        margin-right: 1rem;
     }
     
+    .sidebar p.copyright {
+        text-align: right;
+    }
 }
