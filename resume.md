@@ -8,13 +8,13 @@ title: Resume
 ### Experience
 
 #### The Daily Iowan
-##### Copy Desk Chief, Jan. - May 2016
+##### Copy Desk Chief *Jan. - May 2016*
 Brief description here.    
 
 * list two or three
 * important achievements
 
-##### Copy Editor, Sept. 2014 - Dec. 2015
+##### Copy Editor *Sept. 2014 - Dec. 2015*
 Brief description here.    
 
 * list two or three
