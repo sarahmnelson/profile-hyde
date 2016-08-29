@@ -34,5 +34,8 @@ font-style: normal;
         padding: 0.1rem 1rem;
     }
     
+    .sidebar a.sidebar-nav-item {
+        float: left;
+    }
     
 }
