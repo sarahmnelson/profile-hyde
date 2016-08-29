@@ -42,4 +42,13 @@ font-style: normal;
     .sidebar p.copyright {
         text-align: right;
     }
+    
+    p.social-icons a {
+        margin-right: 1rem;
+        font-family: "PT Sans", Helvetica, Arial, sans-serif;
+        color: black;
+    }
+
+
+    
 }
