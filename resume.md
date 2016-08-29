@@ -23,7 +23,7 @@ Brief description here.
 
 
 #### University of Iowa Hospitals and Clinics
-##### Food service supervisor, Jan. - May 2016 
+##### Food service supervisor *Jan. - May 2016*
 Very brief description here. No bullets.  
 
 
