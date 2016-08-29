@@ -10,7 +10,7 @@ title: Resume
 ## Experience
 #### The Daily Iowan
 Copy Editor, Jan. - May 2016
-
+Brief description and    
 * two
 *  or
 *  three things I dideddd
