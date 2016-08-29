@@ -12,7 +12,7 @@ description:      A student journalist at the University of Iowa with a bright f
 url:              http://lathropd.github.io
 baseurl:          /hyde/
 shortbaseurl:     /hyde
-colorscheme:      ''
+colorscheme:      'theme-base-0b'
 
 author:
   name:           'Daniel Lathrop'
