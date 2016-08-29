@@ -10,7 +10,7 @@ description:      A student journalist at the University of Iowa with a bright f
 url:              http://sarahmnelson.github.io
 baseurl:          /profile-hyde/
 shortbaseurl:     /profile-hyde
-colorscheme:      ''
+colorscheme:      'theme-base-0a (yellow)'
 #options '' (black), theme-base-08 (red), theme-base-09 (orange), theme-base-0a (yellow), theme-base-0b (green), theme-base-0c (cyan), theme-base-0d (blue), theme-base-0e (magenta), theme-base-0f (brown)
 
 
