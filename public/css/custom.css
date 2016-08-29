@@ -1,0 +1,19 @@
+////////////////////////////////
+// Lathrop's resume additions //
+///////////////////////////////
+
+
+
+  
+.resume h1, .resume h2, .resume h3, .resume h4, .resume h5, .resume h6 {
+  margin-bottom: 0px
+}
+
+.resume h5 em {
+  font-style: normal;
+  float: right;
+}
+
+.resume p em { 
+  float: right;
+}
