@@ -12,7 +12,8 @@ I have proven expertise in [multimedia storytelling](/), [journalistic reporting
 ### Social media
 
 <!-- go to http://fontawesome.io/icons/ to see more icons -->
+<p class="socialicons">
 <a href="http://twitter.com/stellarstudent"><i class="fa fa-twitter-square" aria-hidden="true">Twitter</i></a>
 <a href="http://facebook.com/stellarstudent"><i class="fa fa-facebook-square" aria-hidden="true">Facebook</i></a>
 <a href="http://linkedin.com/in/stellarstudent"><i class="fa fa-linkedin-square" aria-hidden="true">LinkedIn</i></a>
-
+</p>
