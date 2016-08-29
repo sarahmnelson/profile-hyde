@@ -11,9 +11,9 @@ title: Resume
 #### The Daily Iowan
 Copy Editor, Jan. - May 2016
 
- * two
- *  or
- *  three things I didedd
+* two
+*  or
+*  three things I dideddd
 
 ## Volunteer Activities
 
