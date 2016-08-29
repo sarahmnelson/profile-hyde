@@ -6,7 +6,7 @@
 
   
 .resume h1, .resume h2, .resume h3, .resume h4, .resume h5, .resume h6 {
-  margin-bottom: 0px
+  margin: 0px
 }
 
 .resume h5 em {
