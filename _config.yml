@@ -12,7 +12,6 @@ description:      A student journalist at the University of Iowa with a bright f
 url:              http://lathropd.github.io
 baseurl:          /hyde/
 shortbaseurl:     /hyde
-theme:            ''
 
 author:
   name:           'Daniel Lathrop'
