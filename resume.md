@@ -8,12 +8,14 @@ title: Resume
 
 #### Her Campus
 Campus Correspondent: Editor-in-Chief *May 2015 - Present*
+
 Brief description here.    
 
 * list two or three
 * important achievements
 
 Contributor *August 2014 - May 2015*
+
 Brief description here.    
 
 * list two or three
@@ -22,12 +24,16 @@ Brief description here.
 
 
 #### Des Moines Public Library
+
 Marketing Intern *November 2013 - May 2014*
+
 Very brief description here. No bullets.  
 
 
 #### Dallas County News
+
 Editorial Intern *October 2013 - May 2014*
+
 Very brief description here. No bullets.
 
 
