@@ -2,7 +2,7 @@
 layout: resume
 title: Resume
 ---
-[sarahmnelson96@gmail.com](mailto:sarahmnelson96@gmail.com) - (515) 249 - 7911
+[sarahmnelson96@gmail.com](mailto:sarahmnelson96@gmail.com) // (515) 249 - 7911
 
 ### Experience
 
