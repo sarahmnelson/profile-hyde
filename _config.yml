@@ -17,13 +17,11 @@ colorscheme:      'theme-base-09'
 
 
 author:
-  name:           'Daniel Lathrop'
-  url:            https://twitter.com/lathropd
-
+  name:           'Stella Student'
+  url:            ''
+  
 paginate:         5
 
 # Custom vars
 version:          2.1.0
 
-github:
-  repo:           https://github.com/lathropd/hyde
