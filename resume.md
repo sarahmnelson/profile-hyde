@@ -17,6 +17,7 @@ title: Resume
    *Correspond with national chapter about accomplishments and concerns
 
 #### Contributor *August 2014 - May 2015*
+   
    *Pitched 2-3 story ideas at each monthly meeting
    
    *Collected relevant GIFs and images for each story
@@ -26,6 +27,7 @@ title: Resume
 
 #### Des Moines Public Library
 Marketing Intern *November 2013 - May 2014*
+   
    *Composed news releases containing library information
    
    *Designed and wrote monthly email blast newsletters using Spindustry
