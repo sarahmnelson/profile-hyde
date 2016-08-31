@@ -8,15 +8,15 @@ title: Resume
 
 #### Her Campus
 #### Campus Correspondent: Editor-in-Chief *May 2015 - Present*
-*Build and lead a staff of 50+ girls on campus
-*Assign and create new and engaging content on a weekly basis
-*Edit 15-20 articles per week in the categories of Features, Blogs, and Profiles
-*Correspond with national chapter about accomplishments and concerns
+    *Build and lead a staff of 50+ girls on campus
+    *Assign and create new and engaging content on a weekly basis
+    *Edit 15-20 articles per week in the categories of Features, Blogs, and Profiles
+    *Correspond with national chapter about accomplishments and concerns
 
 #### Contributor *August 2014 - May 2015*
-*Pitch 2-3 story ideas at each monthly meeting
-*Collect relevant GIFs and images for each story
-*Write 2-3 articles per month, including feature articles and blog posts
+    *Pitch 2-3 story ideas at each monthly meeting
+    *Collect relevant GIFs and images for each story
+    *Write 2-3 articles per month, including feature articles and blog posts
 
 
 #### Des Moines Public Library
