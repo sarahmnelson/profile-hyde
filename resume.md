@@ -8,6 +8,7 @@ title: Resume
 
 #### Her Campus
 #### Campus Correspondent: Editor-in-Chief *May 2015 - Present*
+   
    *Build and lead a staff of 50+ girls on campus
    
    *Assign and create new and engaging content on a weekly basis
