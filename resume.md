@@ -21,12 +21,12 @@ title: Resume
 
 #### Des Moines Public Library
 Marketing Intern *November 2013 - May 2014*
-As an intern in the Des Moines Public Library Marketing Department, I composed news releases containing library information, designed and wrote monthly email blast newsletters using Spindustry, and produced a variety of presentations featuring special event information.  
+    As an intern in the Des Moines Public Library Marketing Department, I composed news releases containing library information, designed and wrote monthly email blast newsletters using Spindustry, and produced a variety of presentations featuring special event information.  
 
 
 #### Dallas County News
 Editorial Intern *October 2013 - May 2014*
-As an intern at the Dallas County News, I conducted interviews with various contacts for stories, wrote multiple stories on a variety of topics each week, and copy edited the Dallas County News and Northeast Record weekly. 
+    As an intern at the Dallas County News, I conducted interviews with various contacts for stories, wrote multiple stories on a variety of topics each week, and copy edited the Dallas County News and Northeast Record weekly. 
 
 
 ### College Activities
