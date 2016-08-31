@@ -7,7 +7,9 @@ title: Resume
 ### Experience
 
 #### Her Campus
-#### Campus Correspondent: Editor-in-Chief *May 2015 - Present*
+#### Campus Correspondent: Editor-in-Chief 
+
+*May 2015 - Present*
    
    *Build and lead a staff of 50+ girls on campus
    
@@ -17,7 +19,9 @@ title: Resume
    
    *Correspond with national chapter about accomplishments and concerns
 
-#### Contributor *August 2014 - May 2015*
+#### Contributor 
+
+*August 2014 - May 2015*
    
    *Pitched 2-3 story ideas at each monthly meeting
    
@@ -27,7 +31,9 @@ title: Resume
 
 
 #### Des Moines Public Library
-Marketing Intern *November 2013 - May 2014*
+Marketing Intern 
+
+*November 2013 - May 2014*
    
    *Composed news releases containing library information
    
@@ -37,7 +43,9 @@ Marketing Intern *November 2013 - May 2014*
 
 
 #### Dallas County News
-Editorial Intern *October 2013 - May 2014*
+Editorial Intern 
+
+*October 2013 - May 2014*
    *Conducted interviews with various contacts for stories
    
    *Wrote multiple stories on a variety of topics each week
