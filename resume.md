@@ -7,6 +7,7 @@ title: Resume
 ### Experience
 
 #### Her Campus
+
 #### Campus Correspondent: Editor-in-Chief 
 
 *May 2015 - Present*
