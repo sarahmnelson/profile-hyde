@@ -54,27 +54,32 @@ Editorial Intern
    *Copy edited the Dallas County News and Northeast Record weekly
 
 
-### College Activities
-#### Sigma Delta Chi
-Brief explanation
+### Volunteer Experience
+#### Family Representative - UI Dance Marathon
+May 2015-May 2016
 
-* President Jan. 2016 - present
-* Secretary Sept. 2015 - Jan. 2016
-* Member  Sept. 2014 - present
+   *Provide information and support for Dance Marathon family
+   
+   *Correspond by mail and email with a family at least every two weeks
+   
+   *Attend monthly meetings to learn strategies for continued correspondence
 
 
-#### Iowa Raptor Project
-Something about birds.
+#### Grace Within - St. Boniface Church
+September 20118-May 2014
 
-### Skills
-#### Video production
-* FinalCut X
-* Adobe Premiere
-* Experience with SLR and DVCAM shooting
+   *Discussed and provided solutions to social issues
+   
+   *Met weekly with elementary and middle school girls
+   
+   *Built self-esteem of girls through games, activities, and discussions
 
-#### Another skill
-* subskills/software
+### Skills & Technology
+
+Proficient: blogging, copy editing, writing for social media, SEO, Mac OS Interfaces
+
+Working Knowledge: AP Style, audio & visual storytelling, Audacity, Photoshop, Google Fusion, Excel, Final Cut Pro X, H4N Zoom Recorder, Canon 60D Camera
 
 ### Education
 #### University of Iowa
-Bachelor of Arts in Journalism and Mass Communication *anticipated May 2017* 
+Bachelor of Arts in Journalism and Mass Communication, English Minor, Fundraising & Philanthropy Communication Certificate *anticipated May 2017* 
