@@ -3,15 +3,15 @@ layout: page
 title: About
 ---
 
-<b> Personal Creative Brief <b>
+<b>Personal Creative Brief</b>
 
-<b> Field of interest: <b> journalism or book publishing
+<b>Field of interest:</b> journalism or book publishing
 
-Type of organization: publication or publishing house
+<b>Type of organization:</b> publication or publishing house
 
-Location: Des Moines or Chicago
+<b>Location:</b> Des Moines or Chicago
 
-Company size: small or medium
+<b>Company size:</b> small or medium
 
-Job: journalist or book publisher
+<b>Job:</b> journalist or book publisher
 
