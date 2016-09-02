@@ -5,7 +5,7 @@ title: About
 
 <b> Personal Creative Brief <b>
 
-Field of interest: journalism or book publishing
+<b> Field of interest: <b> journalism or book publishing
 
 Type of organization: publication or publishing house
 
