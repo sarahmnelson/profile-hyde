@@ -29,3 +29,28 @@ title: About
 <b>5.</b> work as English/grammar tutor
 
 <b>6.</b> 6+ years as mentor in middle and high school - strong leadership skills
+
+
+<b>Brand Statement</b>
+
+I want to use my writing to promote kindness and a passion for reading around the world.
+
+
+<b>Brand promise</b>
+
+instill a love of reading and passion for kindness
+
+
+<b>Brand characteristics</b>
+
+<b>1.</b> kind
+
+<b>2.</b> generous
+
+<b>3.</b> funny
+
+<b>4.</b> organized
+
+<b>5.</b> creative
+
+<b>6.</b> individual
