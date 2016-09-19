@@ -8,12 +8,14 @@ title: Resume
 
 #### Her Campus
 Campus Correspondent: Editor-in-Chief *May 2015 - Present*
+
 * Build and lead a staff of 50+ girls on campus
 * Assign and create new and engaging content on a weekly basis
 * Edit 15-20 articles per week in the categories of Features, Blogs, and Profiles
 * Correspond with national chapter about accomplishments and concerns
 
 Contributor *August 2014 - May 2015*
+
 * Pitched 2-3 story ideas at each monthly meeting
 * Collected relevant GIFs and images for each story
 * Wrote 2-3 articles per month, including feature articles and blog posts
@@ -21,6 +23,7 @@ Contributor *August 2014 - May 2015*
 
 #### Des Moines Public Library
 Marketing Intern *November 2013 - May 2014*
+
 * Composed news releases containing library information
 * Designed and wrote monthly email blast newsletters using Spindustry
 * Produced a variety of presentations featuring special event information
@@ -38,6 +41,7 @@ Editorial Intern  *October 2013 - May 2014*
 
 #### UI Dance Marathon 
 Family Representative  *May 2015-May 2016*
+
 * Provide information and support for Dance Marathon family
 * Correspond by mail and email with a family at least every two weeks
 * Attend monthly meetings to learn strategies for continued correspondence
@@ -45,6 +49,7 @@ Family Representative  *May 2015-May 2016*
 
 #### Grace Within - St. Boniface Church
 Volunteer *September 2011 - May 2014*
+
 * Discussed and provided solutions to social issues
 * Met weekly with elementary and middle school girls
 * Built self-esteem of girls through games, activities, and discussions
