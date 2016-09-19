@@ -8,8 +8,7 @@ title: Resume
 
 #### Her Campus
 
-#### Campus Correspondent: Editor-in-Chief 
-
+##### Campus Correspondent: Editor-in-Chief 
 *May 2015 - Present*
 
 * Build and lead a staff of 50+ girls on campus
@@ -17,7 +16,7 @@ title: Resume
 * Edit 15-20 articles per week in the categories of Features, Blogs, and Profiles
 * Correspond with national chapter about accomplishments and concerns
 
-#### Contributor 
+##### Contributor 
 
 *August 2014 - May 2015*
    
@@ -28,7 +27,7 @@ title: Resume
 
 #### Des Moines Public Library
 
-#### Marketing Intern 
+##### Marketing Intern 
 *November 2013 - May 2014*
    
 * Composed news releases containing library information
@@ -39,7 +38,7 @@ title: Resume
 
 
 #### Dallas County News
-Editorial Intern 
+##### Editorial Intern 
 *October 2013 - May 2014*
 
 * Conducted interviews with various contacts for stories
@@ -60,11 +59,11 @@ Editorial Intern
 #### Grace Within - St. Boniface Church
 September 20118-May 2014
 
-   *Discussed and provided solutions to social issues
+* Discussed and provided solutions to social issues
    
-   *Met weekly with elementary and middle school girls
+* Met weekly with elementary and middle school girls
    
-   *Built self-esteem of girls through games, activities, and discussions
+* Built self-esteem of girls through games, activities, and discussions
 
 ### Skills & Technology
 
