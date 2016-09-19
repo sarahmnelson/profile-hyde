@@ -58,7 +58,7 @@ Volunteer *September 2011 - May 2014*
 
 Proficient: blogging, copy editing, writing for social media, SEO, Mac OS Interfaces
 
-Working Knowledge: AP Style, audio & visual storytelling, Audacity, Photoshop, Google Fusion, Excel, Final Cut Pro X, H4N Zoom Recorder, Canon 60D Camera
+Working Knowledge: AP Style, audio & visual storytelling, Audacity, Photoshop, Google Fusion, Excel, Final Cut Pro X, Multi-Track Audio Recorder, SLR Camera
 
 ### Education
 
