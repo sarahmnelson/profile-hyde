@@ -61,8 +61,9 @@ Proficient: blogging, copy editing, writing for social media, SEO, Mac OS Interf
 Working Knowledge: AP Style, audio & visual storytelling, Audacity, Photoshop, Google Fusion, Excel, Final Cut Pro X, H4N Zoom Recorder, Canon 60D Camera
 
 ### Education
-#### University of Iowa
 
- Bachelor of Arts in Journalism and Mass Communication *anticipated May 2017* 
- English Minor, 
+#### University of Iowa 
+ __Bachelor of Arts__ *anticipated May 2017* 
+ Major in Journalism and Mass Communication 
+ English Minor 
  Fundraising & Philanthropy Communication Certificate 
