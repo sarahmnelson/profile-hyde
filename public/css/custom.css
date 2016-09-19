@@ -32,7 +32,7 @@ p.social-icons i {
 }
 
 .resume ul {
-    margin-top: 0px;
+    margin-top: -1rem;
 }
 
 @media (max-width: 47.9em) {
