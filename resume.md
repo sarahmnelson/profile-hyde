@@ -48,8 +48,7 @@ title: Resume
 
 ### Volunteer Experience
 
-#### Family Representative - UI Dance Marathon
-*May 2015-May 2016*
+#### Family Representative - UI Dance Marathon *May 2015-May 2016*
 
 * Provide information and support for Dance Marathon family
 * Correspond by mail and email with a family at least every two weeks
@@ -57,12 +56,10 @@ title: Resume
 
 
 #### Grace Within - St. Boniface Church
-September 20118-May 2014
+Volunteer *September 2011 - May 2014*
 
 * Discussed and provided solutions to social issues
-   
 * Met weekly with elementary and middle school girls
-   
 * Built self-esteem of girls through games, activities, and discussions
 
 ### Skills & Technology
