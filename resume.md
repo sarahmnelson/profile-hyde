@@ -63,7 +63,7 @@ Working Knowledge: AP Style, audio & visual storytelling, Audacity, Photoshop, G
 ### Education
 
 #### University of Iowa 
- __Bachelor of Arts__ *anticipated May 2017* 
- <br>Major in Journalism and Mass Communication
- <br> English Minor 
- <br>Fundraising & Philanthropy Communication Certificate 
+Bachelor of Arts *anticipated May 2017* 
+* Major in Journalism and Mass Communication
+* English Minor 
+* Fundraising & Philanthropy Communication Certificate 
