@@ -7,18 +7,14 @@ title: Resume
 ### Experience
 
 #### Her Campus
-
-##### Campus Correspondent: Editor-in-Chief 
-*May 2015 - Present*
+Campus Correspondent: Editor-in-Chief *May 2015 - Present*
 
 * Build and lead a staff of 50+ girls on campus
 * Assign and create new and engaging content on a weekly basis
 * Edit 15-20 articles per week in the categories of Features, Blogs, and Profiles
 * Correspond with national chapter about accomplishments and concerns
 
-##### Contributor 
-
-*August 2014 - May 2015*
+Contributor *August 2014 - May 2015*
    
 * Pitched 2-3 story ideas at each monthly meeting
 * Collected relevant GIFs and images for each story
@@ -26,9 +22,7 @@ title: Resume
 
 
 #### Des Moines Public Library
-
-##### Marketing Intern 
-*November 2013 - May 2014*
+Marketing Intern *November 2013 - May 2014*
    
 * Composed news releases containing library information
    
@@ -38,8 +32,7 @@ title: Resume
 
 
 #### Dallas County News
-##### Editorial Intern 
-*October 2013 - May 2014*
+Editorial Intern  *October 2013 - May 2014*
 
 * Conducted interviews with various contacts for stories
 * Wrote multiple stories on a variety of topics each week
@@ -48,7 +41,8 @@ title: Resume
 
 ### Volunteer Experience
 
-#### Family Representative - UI Dance Marathon *May 2015-May 2016*
+#### UI Dance Marathon 
+Family Representative  *May 2015-May 2016*
 
 * Provide information and support for Dance Marathon family
 * Correspond by mail and email with a family at least every two weeks
@@ -71,4 +65,6 @@ Working Knowledge: AP Style, audio & visual storytelling, Audacity, Photoshop, G
 ### Education
 #### University of Iowa
 
-Bachelor of Arts in Journalism and Mass Communication, English Minor, Fundraising & Philanthropy Communication Certificate *anticipated May 2017* 
+ Bachelor of Arts in Journalism and Mass Communication *anticipated May 2017* 
+ English Minor, 
+ Fundraising & Philanthropy Communication Certificate 
