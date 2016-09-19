@@ -31,6 +31,10 @@ p.social-icons i {
 
 }
 
+.resume ul {
+    margin-top: 0px;
+}
+
 @media (max-width: 47.9em) {
     div.sidebar h1 {
          font-size: 3rem;
